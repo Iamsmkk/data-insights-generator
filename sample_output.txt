@@ -1,0 +1,16 @@
+DATA INSIGHTS REPORT
+--------------------------------
+Source file: sales_data.csv
+Total rows: 10
+
+Numeric columns summary:
+  Revenue: avg=4310.00, min=2400.0, max=7200.0 (n=10)
+  Quantity: avg=9.60, min=5.0, max=15.0 (n=10)
+
+Most frequent value in 'Product': Laptop (4 occurrences)
+
+Notes:
+- Numeric spread suggests basic variation present.
+- 'Product' has a dominant category: Laptop.
+- No missing values detected.
+--------------------------------

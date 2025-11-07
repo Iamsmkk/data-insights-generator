@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.txt
+!sample_output.txt
